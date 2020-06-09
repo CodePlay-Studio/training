@@ -5,6 +5,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "errorCode": null,
-  "message": null
+  "errorCode": "",
+  "message": ""
 }
