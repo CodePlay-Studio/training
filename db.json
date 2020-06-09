@@ -1,5 +1,4 @@
 {
-  "result": 1,
   "responseResult": { 
     "news": [
       { "id": 1, "title": "Post 1" },
