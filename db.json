@@ -1,7 +1,7 @@
 {
-	“result”: 1,
-	“responseResult”: {
-		“news”: [
+	"result": 1,
+	"responseResult": {
+		"news": [
 			{
 				"id": 1,
 				"title": "Transport minister: Receipts can pass for road tax, license during MCO",
@@ -21,7 +21,7 @@
 				"createdDateTime": "2020-05-15T10:01:09.669691"
 			}
 		]
-		“faqs”: [
+		"faqs": [
 			{
 				"id": 1,
 				"title": "What is digital id",
@@ -36,6 +36,6 @@
 			}
 		]
 	},
-	“errorCode”: null,
-	“message”: null
+	"errorCode": null,
+	"message": null
 }
