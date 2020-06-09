@@ -1,0 +1,41 @@
+{
+	“result”: 1,
+	“responseResult”: {
+		“news”: [
+			{
+				"id": 1,
+				"title": "Transport minister: Receipts can pass for road tax, license during MCO",
+				"subTitle": null,
+				"imagePath": "1.pdf",
+				"newsURL": "1.pdf",
+				"newsDetail": null,
+				"createdDateTime": "2020-05-14T10:01:09.669691"
+			},
+			{
+				"id": 2,
+				"title": "JPJ penalises 300 foreign vehicles owners in border operation",
+				"subTitle": null,
+				"imagePath": "1.pdf",
+				"newsURL": "1.pdf",
+				"newsDetail": null,
+				"createdDateTime": "2020-05-15T10:01:09.669691"
+			}
+		]
+		“faqs”: [
+			{
+				"id": 1,
+				"title": "What is digital id",
+				"subTitle": "Benefit of digital id",
+				"createdDateTime": "2020-05-13T10:01:09.669691"
+			},
+			{
+				"id": 2,
+				"title": "What is eKYC",
+				"subTitle": "Benefit of eKYC",
+				"createdDateTime": "2020-05-14T10:01:09.669691"
+			}
+		]
+	},
+	“errorCode”: null,
+	“message”: null
+}
